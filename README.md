@@ -32,7 +32,3 @@ Displays:
 - Cleanest city  
 - Total cities monitored  
 
----
-
-## 📦 Project Structure
-
